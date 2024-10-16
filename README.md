@@ -1,0 +1,1 @@
+This repository contains implementations of various design patterns in C++. It is aimed at providing concise and clear examples for learning and applying object-oriented design patterns in software development. Each pattern includes code snippets, detailed explanations, and potential use cases.
